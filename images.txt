@@ -3,5 +3,6 @@ nginx
 sanjusss/aliyun-ddns:latest
 viktorstrate/photoview:latest
 homeassistant/home-assistant:stable
+ceramicwhite/pokerogue:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
