@@ -1,8 +1,8 @@
 nginx
 #支持私库
-sanjusss/aliyun-ddns:stable
-viktorstrate/photoview:stable
+sanjusss/aliyun-ddns
+viktorstrate/photoview
 homeassistant/home-assistant:stable
-ceramicwhite/pokerogue:stable
+ceramicwhite/pokerogue
 #支持指定架构
 --platform=linux/amd64 xiaoyaliu/alist
