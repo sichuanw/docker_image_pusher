@@ -1,8 +1,9 @@
-nginx
+--nginx
 #支持私库
 sanjusss/aliyun-ddns:latest
 viktorstrate/photoview:latest
 homeassistant/home-assistant:stable
-ceramicwhite/pokerogue:latest
+ceramicwhite/pokerogue:stable
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64
+platform=linux/amd64
